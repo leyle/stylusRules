@@ -1,0 +1,107 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1602127194091,
+		"name": "medium.com",
+		"sections": [
+			{
+				"code": "#root > div > article > div > section > div > div {\n    max-width: 960px;\n}",
+				"domains": [
+					"medium.com"
+				]
+			}
+		],
+		"updateDate": 1602152371322,
+		"_id": "35595b7d-b5cf-40bc-8366-4f25cab757f7",
+		"_rev": 1602152371322,
+		"id": 1
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1602258529229,
+		"name": "golangweekly.com",
+		"sections": [
+			{
+				"code": ".contained {\n    max-width: 1024px;\n}\n\n\ntable {\n    max-width: 1024px !important;\n}",
+				"domains": [
+					"golangweekly.com"
+				]
+			}
+		],
+		"updateDate": 1602259165576,
+		"_id": "2392d53b-cd71-4b49-9758-ecaf07cf33f7",
+		"_rev": 1602259165576,
+		"id": 4
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1602393293019,
+		"name": "www.alexedwards.net",
+		"sections": [
+			{
+				"code": ".wrapper {\n    margin: 0 auto;\n    max-width: 960px;\n}",
+				"domains": [
+					"www.alexedwards.net"
+				]
+			}
+		],
+		"updateDate": 1602393293019,
+		"_id": "d2b4d488-6f39-4e78-a0cc-5470c940f736",
+		"_rev": 1602393293019,
+		"id": 5
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1602667767075,
+		"name": "geekflare.com",
+		"sections": [
+			{
+				"code": ".col-lg-8 {\n    max-width: 98%;\n}",
+				"domains": [
+					"geekflare.com"
+				]
+			}
+		],
+		"updateDate": 1602667767075,
+		"_id": "2e138465-7577-43bf-af76-561fad054241",
+		"_rev": 1602667767075,
+		"id": 6
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1603020186712,
+		"name": "www.uukanshu.com",
+		"sections": [
+			{
+				"code": ".box_right {\n    width: 0px;\n}\n\n\n.box_left {\n    width: 910px;   \n}",
+				"domains": [
+					"www.uukanshu.com"
+				]
+			}
+		],
+		"updateDate": 1603020477699,
+		"_id": "e0c8e7bd-3eda-47ae-b23d-71fe263c0da6",
+		"_rev": 1603020477699,
+		"id": 7
+	}
+]
